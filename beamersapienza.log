@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  10 SEP 2025 18:22
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  10 SEP 2025 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1835,15 +1835,26 @@ File: assets/sdu_logo.png Graphic file (type bmp)
  [54
 
 ]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+
+Overfull \vbox (4.28476pt too high) detected at line 1574
+ []
+
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+[55
+
+]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/sl' in size <14.4> not available
-(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 1843.
+(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 1875.
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
-(Font)              scaled to size 14.4pt on input line 1843.
+(Font)              scaled to size 14.4pt on input line 1875.
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [55
+ [56
 
 ]
 \tf@nav=\write6
@@ -1868,12 +1879,12 @@ Package rerunfilecheck Info: File `beamersapienza.out' has not changed.
 (rerunfilecheck)             Checksum: DB80BC832C8A6ED0EF0621B7C1DD6563;669.
  ) 
 Here is how much of TeX's memory you used:
- 31289 strings out of 476720
- 767180 string characters out of 5800850
+ 31294 strings out of 476720
+ 767253 string characters out of 5800850
  1937842 words of memory out of 5000000
- 52642 multiletter control sequences out of 15000+600000
- 567479 words of font info for 146 fonts, out of 8000000 for 9000
+ 52645 multiletter control sequences out of 15000+600000
+ 567487 words of font info for 147 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  128i,13n,139p,492b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on beamersapienza.xdv (55 pages, 347876 bytes).
+Output written on beamersapienza.xdv (56 pages, 352632 bytes).

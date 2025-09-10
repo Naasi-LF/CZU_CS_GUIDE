@@ -1,10 +1,9 @@
-# SDU-beamer-template
-A SDU-beamer-template based on [THU-beamer-template](https://github.com/FangWHao/THU-beamer-template)
+# 常州工学院CS救命指北
 
-Please contact [me](2861126078@qq.com) if you have any questions about the templates or if you have questions about copyright infringement.
+为常工院CS量身定制的本科学习指南，更适合常工院宝宝体质。
 
-This template is open source under the GPL-3.0 license
+本文档开源并欢迎各位前来PR贡献.
 
-![6vSHK.png](https://i.imgs.ovh/2023/12/19/6vSHK.png)![6vbqd.png](https://i.imgs.ovh/2023/12/19/6vbqd.png)
-![6vuS2.png](https://i.imgs.ovh/2023/12/19/6vuS2.png)![6v7Yj.png](https://i.imgs.ovh/2023/12/19/6v7Yj.png)
-![6vQ2I.png](https://i.imgs.ovh/2023/12/19/6vQ2I.png)![6vRhV.png](https://i.imgs.ovh/2023/12/19/6vRhV.png)
+本项目由程序员之家进行维护。
+
+

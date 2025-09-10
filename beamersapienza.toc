@@ -1,0 +1,6 @@
+\beamer@sectionintoc {3}{第0步}{6}{0}{1}
+\beamer@sectionintoc {4}{竞赛推荐}{20}{0}{2}
+\beamer@sectionintoc {5}{大一规划}{25}{0}{3}
+\beamer@sectionintoc {6}{大二规划}{36}{0}{4}
+\beamer@sectionintoc {7}{大三规划}{44}{0}{5}
+\beamer@sectionintoc {8}{大四规划}{52}{0}{6}

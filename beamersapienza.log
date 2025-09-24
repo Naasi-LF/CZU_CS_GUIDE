@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  10 SEP 2025 18:46
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  24 SEP 2025 18:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1565,32 +1565,39 @@ File: assets/sdu_logo.png Graphic file (type bmp)
  [24
 
 ]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [25
+
+]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
  (./beamersapienza.toc)
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [25
-
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 726.
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
  [26
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-LaTeX Font Info:    Font shape `TU/Caladea(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 757.
-LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
-(Font)              scaled to size 14.4pt on input line 757.
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 752.
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
  [27
+
+]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 783.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
+(Font)              scaled to size 14.4pt on input line 783.
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [28
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1603,18 +1610,18 @@ File: assets/calculus3.png Graphic file (type bmp)
 <assets/calculus3.png>
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
- [28
+ [29
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (4.56055pt too high) detected at line 825
+Overfull \vbox (4.56055pt too high) detected at line 851
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[29
+[30
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1623,7 +1630,7 @@ File: assets/linear.png Graphic file (type bmp)
 <assets/linear.png>
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
- [30
+ [31
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1631,18 +1638,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/prob.png Graphic file (type bmp)
 <assets/prob.png>
 
-Overfull \vbox (4.23923pt too high) detected at line 891
- []
-
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-[31
-
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-
-Overfull \vbox (8.01357pt too high) detected at line 927
+Overfull \vbox (4.23923pt too high) detected at line 917
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1652,9 +1648,20 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
+
+Overfull \vbox (8.01357pt too high) detected at line 953
+ []
+
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
- [33
+[33
+
+]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [34
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1662,19 +1669,19 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/harsha.png Graphic file (type bmp)
 <assets/harsha.png>
 
-Overfull \vbox (57.32071pt too high) detected at line 1006
+Overfull \vbox (57.32071pt too high) detected at line 1032
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[34
+[35
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
- [35
+ [36
 
 ]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
@@ -1682,29 +1689,22 @@ File: assets/sdu_logo_negative.png Graphic file (type bmp)
  (./beamersapienza.toc)
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [36
+ [37
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 1074.
+(Font)              scaled to size 20.74pt on input line 1100.
 File: assets/csapp.png Graphic file (type bmp)
 <assets/csapp.png>
 
-Overfull \vbox (53.39287pt too high) detected at line 1074
+Overfull \vbox (53.39287pt too high) detected at line 1100
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[37
-
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
- [38
+[38
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1737,11 +1737,18 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 1242.
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
  [43
+
+]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 1268.
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [44
 
 ]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
@@ -1749,24 +1756,13 @@ File: assets/sdu_logo_negative.png Graphic file (type bmp)
  (./beamersapienza.toc)
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [44
+ [45
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (23.04575pt too high) detected at line 1280
- []
-
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-[45
-
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-
-Overfull \vbox (15.74806pt too high) detected at line 1324
+Overfull \vbox (23.04575pt too high) detected at line 1306
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1776,27 +1772,31 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
- [47
 
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-
-Overfull \vbox (15.81543pt too high) detected at line 1403
+Overfull \vbox (15.74806pt too high) detected at line 1350
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[48
+[47
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
- [49
+ [48
+
+]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+
+Overfull \vbox (15.81543pt too high) detected at line 1429
+ []
+
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+[49
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1813,18 +1813,18 @@ File: assets/sdu_logo.png Graphic file (type bmp)
  [51
 
 ]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [52
+
+]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
  (./beamersapienza.toc)
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [52
-
-]
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
-File: assets/sdu_logo.png Graphic file (type bmp)
-<assets/sdu_logo.png>
  [53
 
 ]
@@ -1837,24 +1837,31 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+ [55
 
-Overfull \vbox (4.28476pt too high) detected at line 1574
+]
+File: assets/sdu_logo.png Graphic file (type bmp)
+<assets/sdu_logo.png>
+
+Overfull \vbox (4.28476pt too high) detected at line 1600
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[55
+[56
 
 ]
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/sl' in size <14.4> not available
-(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 1875.
+(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 1901.
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
-(Font)              scaled to size 14.4pt on input line 1875.
+(Font)              scaled to size 14.4pt on input line 1901.
 File: assets/sdu_logo_negative.png Graphic file (type bmp)
 <assets/sdu_logo_negative.png>
- [56
+ [57
 
 ]
 \tf@nav=\write6
@@ -1879,12 +1886,12 @@ Package rerunfilecheck Info: File `beamersapienza.out' has not changed.
 (rerunfilecheck)             Checksum: DB80BC832C8A6ED0EF0621B7C1DD6563;669.
  ) 
 Here is how much of TeX's memory you used:
- 31294 strings out of 476720
- 767253 string characters out of 5800850
+ 31305 strings out of 476720
+ 767933 string characters out of 5800850
  1937842 words of memory out of 5000000
- 52645 multiletter control sequences out of 15000+600000
+ 52656 multiletter control sequences out of 15000+600000
  567487 words of font info for 147 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  128i,13n,139p,492b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on beamersapienza.xdv (56 pages, 352632 bytes).
+Output written on beamersapienza.xdv (57 pages, 361196 bytes).

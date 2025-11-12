@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  12 NOV 2025 18:22
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.30)  13 NOV 2025 02:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -953,24 +953,43 @@ Package fontspec Info: Font family 'Carlito(5)' created for font 'Carlito'
 LaTeX Info: Redefining \textin on input line 152.
 ) (./sintefcolor.sty
 Package: sintefcolor 2021/03/04
-)) (d:/LaTeX/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+)) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty
+Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
  (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
-) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count361
+\l__ctex_tmp_box=\box83
+\l__ctex_tmp_dim=\dimen310
+\g__ctex_section_depth_int=\count362
+\g__ctex_font_size_int=\count363
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen310
-\l__xtemplate_tmp_int=\count361
+\l__xtemplate_tmp_dim=\dimen311
+\l__xtemplate_tmp_int=\count364
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip65
 ))
-\l__xeCJK_tmp_int=\count362
-\l__xeCJK_tmp_box=\box83
-\l__xeCJK_tmp_dim=\dimen311
+\l__xeCJK_tmp_int=\count365
+\l__xeCJK_tmp_box=\box84
+\l__xeCJK_tmp_dim=\dimen312
 \l__xeCJK_tmp_skip=\skip66
-\g__xeCJK_space_factor_int=\count363
-\l__xeCJK_begin_int=\count364
-\l__xeCJK_end_int=\count365
+\g__xeCJK_space_factor_int=\count366
+\l__xeCJK_begin_int=\count367
+\l__xeCJK_end_int=\count368
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -980,93 +999,145 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
 \l__xeCJK_last_skip=\skip67
-\c__xeCJK_none_node=\count366
-\g__xeCJK_node_int=\count367
-\c__xeCJK_CJK_node_dim=\dimen312
-\c__xeCJK_CJK-space_node_dim=\dimen313
-\c__xeCJK_default_node_dim=\dimen314
-\c__xeCJK_CJK-widow_node_dim=\dimen315
-\c__xeCJK_normalspace_node_dim=\dimen316
+\c__xeCJK_none_node=\count369
+\g__xeCJK_node_int=\count370
+\c__xeCJK_CJK_node_dim=\dimen313
+\c__xeCJK_CJK-space_node_dim=\dimen314
+\c__xeCJK_default_node_dim=\dimen315
+\c__xeCJK_CJK-widow_node_dim=\dimen316
+\c__xeCJK_normalspace_node_dim=\dimen317
 \c__xeCJK_default-space_node_skip=\skip68
 \l__xeCJK_ccglue_skip=\skip69
 \l__xeCJK_ecglue_skip=\skip70
 \l__xeCJK_punct_kern_skip=\skip71
-\l__xeCJK_indent_box=\box84
-\l__xeCJK_last_penalty_int=\count368
-\l__xeCJK_last_bound_dim=\dimen317
-\l__xeCJK_last_kern_dim=\dimen318
-\l__xeCJK_widow_penalty_int=\count369
+\l__xeCJK_indent_box=\box85
+\l__xeCJK_last_penalty_int=\count371
+\l__xeCJK_last_bound_dim=\dimen318
+\l__xeCJK_last_kern_dim=\dimen319
+\l__xeCJK_widow_penalty_int=\count372
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 (xtemplate)             argument(s) on line 2396.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen319
-\l__xeCJK_mixed_punct_width_dim=\dimen320
-\l__xeCJK_middle_punct_width_dim=\dimen321
-\l__xeCJK_fixed_margin_width_dim=\dimen322
-\l__xeCJK_mixed_margin_width_dim=\dimen323
-\l__xeCJK_middle_margin_width_dim=\dimen324
-\l__xeCJK_bound_punct_width_dim=\dimen325
-\l__xeCJK_bound_margin_width_dim=\dimen326
-\l__xeCJK_margin_minimum_dim=\dimen327
-\l__xeCJK_kerning_total_width_dim=\dimen328
-\l__xeCJK_same_align_margin_dim=\dimen329
-\l__xeCJK_different_align_margin_dim=\dimen330
-\l__xeCJK_kerning_margin_width_dim=\dimen331
-\l__xeCJK_kerning_margin_minimum_dim=\dimen332
-\l__xeCJK_bound_dim=\dimen333
-\l__xeCJK_reverse_bound_dim=\dimen334
-\l__xeCJK_margin_dim=\dimen335
-\l__xeCJK_minimum_bound_dim=\dimen336
-\l__xeCJK_kerning_margin_dim=\dimen337
-\g__xeCJK_family_int=\count370
-\l__xeCJK_fam_int=\count371
-\g__xeCJK_fam_allocation_int=\count372
-\l__xeCJK_verb_case_int=\count373
+\l__xeCJK_fixed_punct_width_dim=\dimen320
+\l__xeCJK_mixed_punct_width_dim=\dimen321
+\l__xeCJK_middle_punct_width_dim=\dimen322
+\l__xeCJK_fixed_margin_width_dim=\dimen323
+\l__xeCJK_mixed_margin_width_dim=\dimen324
+\l__xeCJK_middle_margin_width_dim=\dimen325
+\l__xeCJK_bound_punct_width_dim=\dimen326
+\l__xeCJK_bound_margin_width_dim=\dimen327
+\l__xeCJK_margin_minimum_dim=\dimen328
+\l__xeCJK_kerning_total_width_dim=\dimen329
+\l__xeCJK_same_align_margin_dim=\dimen330
+\l__xeCJK_different_align_margin_dim=\dimen331
+\l__xeCJK_kerning_margin_width_dim=\dimen332
+\l__xeCJK_kerning_margin_minimum_dim=\dimen333
+\l__xeCJK_bound_dim=\dimen334
+\l__xeCJK_reverse_bound_dim=\dimen335
+\l__xeCJK_margin_dim=\dimen336
+\l__xeCJK_minimum_bound_dim=\dimen337
+\l__xeCJK_kerning_margin_dim=\dimen338
+\g__xeCJK_family_int=\count373
+\l__xeCJK_fam_int=\count374
+\g__xeCJK_fam_allocation_int=\count375
+\l__xeCJK_verb_case_int=\count376
 \l__xeCJK_verb_exspace_skip=\skip72
  (d:/LaTeX/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
-)) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/textpos/textpos.sty
-Package: textpos 2022/07/23 v1.10.1
-Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box85
-\TP@holdbox=\box86
-\TPHorizModule=\dimen338
-\TPVertModule=\dimen339
-\TP@margin=\dimen340
-\TP@absmargin=\dimen341
+))
+\ccwd=\dimen339
+\l__ctex_ccglue_skip=\skip73
+)
+\l__ctex_ziju_dim=\dimen340
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count377
+\l__zhnum_tmp_int=\count378
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+)) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CTEX)
+ (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
 
-Grid set 16 x 16 = 28.45274pt x 16.00467pt
-\TPboxrulesize=\dimen342
-\TP@ox=\dimen343
-\TP@oy=\dimen344
-\TP@tbargs=\toks50
-TextBlockOrigin set to 0pt x 0pt
-) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty)
-
-Package xeCJK Warning: Fandol is being set as the default font for CJK text.
-(xeCJK)                Please make sure it has been properly installed.
-
-
-Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
-(fontspec)                Script "CJK".
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
 
 
-Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
-(fontspec)             'FandolHei-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolHei-Bold}].
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolHei-Regular.otf]/OT:language=dflt;"
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[FandolHei-Bold.otf]/OT:language=dflt;"
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-(./beamersapienza.aux)
+)) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box86
+\TP@holdbox=\box87
+\TPHorizModule=\dimen341
+\TPVertModule=\dimen342
+\TP@margin=\dimen343
+\TP@absmargin=\dimen344
+
+Grid set 16 x 16 = 28.45274pt x 16.00467pt
+\TPboxrulesize=\dimen345
+\TP@ox=\dimen346
+\TP@oy=\dimen347
+\TP@tbargs=\toks50
+TextBlockOrigin set to 0pt x 0pt
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty)
+
+Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Microsoft YaHei/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'MicrosoftYaHei(0)' created for font
+(fontspec)             'Microsoft YaHei' with options
+(fontspec)             [Script={CJK},BoldFont={* Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Microsoft YaHei
+(fontspec)             Bold/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./beamersapienza.aux)
 \openout1 = `beamersapienza.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1078,10 +1149,6 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 21.
- (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -1183,6 +1250,8 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
+) (d:/LaTeX/texlive/2024/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictionary-ChineseUTF8.dict
+Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2022/07/14 v2.5.10 Chinese translation for theorem name (CTEX)
 )
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -1279,13 +1348,9 @@ LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 57.
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 57.
-
-Overfull \vbox (6.16293pt too high) detected at line 57
- []
-
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
-[2
+ [2
 
 ]
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1305,7 +1370,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (16.52821pt too high) detected at line 119
+Overfull \vbox (16.50566pt too high) detected at line 119
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1350,8 +1415,8 @@ LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 149.
 
 
-LaTeX Font Warning: Font shape `TU/FandolHei-Regular(0)/m/it' undefined
-(Font)              using `TU/FandolHei-Regular(0)/m/n' instead on input line 149.
+LaTeX Font Warning: Font shape `TU/MicrosoftYaHei(0)/m/it' undefined
+(Font)              using `TU/MicrosoftYaHei(0)/m/n' instead on input line 149.
 
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
@@ -1383,7 +1448,7 @@ File: assets/openai.png Graphic file (type bmp)
 File: assets/claude.png Graphic file (type bmp)
 <assets/claude.png>
 
-Overfull \vbox (5.15332pt too high) detected at line 231
+Overfull \vbox (5.47115pt too high) detected at line 231
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1398,7 +1463,7 @@ File: assets/gemini-ai.png Graphic file (type bmp)
 File: assets/Grok.png Graphic file (type bmp)
 <assets/Grok.png>
 
-Overfull \vbox (8.21902pt too high) detected at line 260
+Overfull \vbox (8.43906pt too high) detected at line 260
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1422,7 +1487,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/github.png Graphic file (type bmp)
 <assets/github.png>
 
-Overfull \vbox (13.49236pt too high) detected at line 333
+Overfull \vbox (13.15959pt too high) detected at line 333
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1435,20 +1500,26 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 376.
 
+Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
 
-Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
-(fontspec)                Script "CJK".
+
+Package fontspec Info: Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
 
 
-Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
+Package fontspec Info: Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/Caladea(0)/m/n' will be
@@ -1466,7 +1537,7 @@ LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 376.
 
-Overfull \vbox (1.8165pt too high) detected at line 376
+Overfull \vbox (3.08636pt too high) detected at line 376
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1486,7 +1557,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (18.63445pt too high) detected at line 459
+Overfull \vbox (19.75598pt too high) detected at line 459
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1499,7 +1570,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/image.png Graphic file (type bmp)
 <assets/image.png>
 
-Overfull \vbox (23.07375pt too high) detected at line 471
+Overfull \vbox (23.82346pt too high) detected at line 471
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1514,7 +1585,7 @@ File: assets/Docker.png Graphic file (type bmp)
 File: assets/k8s.png Graphic file (type bmp)
 <assets/k8s.png>
 
-Overfull \vbox (32.89659pt too high) detected at line 516
+Overfull \vbox (32.51103pt too high) detected at line 516
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1616,7 +1687,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (4.56055pt too high) detected at line 851
+Overfull \vbox (5.30618pt too high) detected at line 851
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1638,7 +1709,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/prob.png Graphic file (type bmp)
 <assets/prob.png>
 
-Overfull \vbox (4.23923pt too high) detected at line 917
+Overfull \vbox (4.76816pt too high) detected at line 917
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1649,7 +1720,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (8.01357pt too high) detected at line 953
+Overfull \vbox (9.52484pt too high) detected at line 953
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1669,7 +1740,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/harsha.png Graphic file (type bmp)
 <assets/harsha.png>
 
-Overfull \vbox (57.32071pt too high) detected at line 1032
+Overfull \vbox (57.82466pt too high) detected at line 1032
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1691,7 +1762,7 @@ LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
 File: assets/csapp.png Graphic file (type bmp)
 <assets/csapp.png>
 
-Overfull \vbox (53.39287pt too high) detected at line 1099
+Overfull \vbox (53.59961pt too high) detected at line 1099
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1754,7 +1825,7 @@ File: assets/sdu_logo_negative.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (23.04575pt too high) detected at line 1305
+Overfull \vbox (23.88551pt too high) detected at line 1305
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1765,7 +1836,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (15.74806pt too high) detected at line 1349
+Overfull \vbox (18.07051pt too high) detected at line 1349
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1783,7 +1854,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (15.81543pt too high) detected at line 1428
+Overfull \vbox (16.90913pt too high) detected at line 1428
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1822,7 +1893,7 @@ File: assets/sdu_logo.png Graphic file (type bmp)
 File: assets/sdu_logo.png Graphic file (type bmp)
 <assets/sdu_logo.png>
 
-Overfull \vbox (4.28476pt too high) detected at line 1599
+Overfull \vbox (6.01054pt too high) detected at line 1599
  []
 
 File: assets/sdu_logo.png Graphic file (type bmp)
@@ -1853,7 +1924,7 @@ File: assets/sdu_logo_negative.png Graphic file (type bmp)
  (./beamersapienza.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2022/08/05>
+L3 programming layer <2022/07/14>
  ***********
 
 
@@ -1863,12 +1934,12 @@ Package rerunfilecheck Info: File `beamersapienza.out' has not changed.
 (rerunfilecheck)             Checksum: 1FF79858F2E55EB41D61CD82A02C9664;511.
  ) 
 Here is how much of TeX's memory you used:
- 31241 strings out of 476720
- 764183 string characters out of 5800850
- 1937842 words of memory out of 5000000
- 52596 multiletter control sequences out of 15000+600000
- 567487 words of font info for 147 fonts, out of 8000000 for 9000
+ 32794 strings out of 476720
+ 799986 string characters out of 5800850
+ 1936842 words of memory out of 5000000
+ 54086 multiletter control sequences out of 15000+600000
+ 568675 words of font info for 160 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 128i,13n,139p,492b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,139p,492b,1069s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on beamersapienza.xdv (54 pages, 347320 bytes).
+Output written on beamersapienza.xdv (54 pages, 345872 bytes).
